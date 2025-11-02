@@ -9,6 +9,7 @@ SpeakPlan은 쉽게 놓칠 수 있는 부분에서 실생활에 편하게 녹아
 주요기능
 
 기술 스택
+
 Frontend
 - React-native & TypeScript
 - expo : 빠른 개발 가능 프레임워크
