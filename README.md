@@ -24,8 +24,9 @@ Backend
 
 AI & Model
 
-- STT : 음성인식
-- Gemini(LLM) - 자연어 처리 및 추출
+- STT : 음성 데이터를 텍스트 데이터로 변환
+- Gemini(LLM) - 변환된 텍스트 데이터에서 특정 키워드 추출
+  
 Infra
 
 이용 방법
@@ -53,4 +54,7 @@ Infra
    4) 완료 버튼을 누르게 되면 자동적으로 캘린더에 정보가 업로드 됩니다.
 
 사용한 API
--
+- 
+- Gemini API
+- Google Oauth API
+- Google Calendar API
