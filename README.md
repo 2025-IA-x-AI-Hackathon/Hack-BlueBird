@@ -16,10 +16,14 @@ SpeakPlan은 쉽게 놓칠 수 있는 부분에서 실생활에 편하게 녹아
 -
 
 Frontend
+
 - React-native & TypeScript
 - expo : 빠른 개발 가능 프레임워크
+
 Backend
+
 AI & Model
+
 - STT : 음성인식
 - Gemini(LLM) - 자연어 처리 및 추출
 Infra
