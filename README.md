@@ -25,6 +25,8 @@ Frontend
 
 Backend
 
+-flask
+
 AI & Model
 
 - STT : 음성 데이터를 텍스트 데이터로 변환
